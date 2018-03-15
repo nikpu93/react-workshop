@@ -10,6 +10,7 @@ const CardWrapper = styled.div `
 const Title = styled.h1 `
     color: blue;
     margin-bottom: 40px;
+    text-align: center;
 `;
 
 const Image = styled.img `
